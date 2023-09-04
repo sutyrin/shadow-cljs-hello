@@ -1,0 +1,1 @@
+{"version":3,"sources":["flashcards_demo/core.cljs"],"mappings":";AAEA,yGAAA,zGAACA;AAED,4BAAA,5BAAMC;AAAN,AACE,gHAAA,zGAACD","names":["cljs.core.println","flashcards-demo.core/main"],"sourcesContent":["(ns flashcards-demo.core)\n\n(println \"Hello world (module level)!\")\n\n(defn main []\n  (println \"Hello world (main level)!\"))\n"]}
